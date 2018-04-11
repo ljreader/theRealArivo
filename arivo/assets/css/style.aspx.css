@@ -1,4 +1,4 @@
-/* https://autofinance.chase.com/R-CAF/css/style.aspx?lp=1250003 */
+
 
 .sub-nav ul li.sub-nav-item.more a:after { background: url("/R-CAF/1250003/images/arrow-down-blue.svg") no-repeat center center; }
 #line-arrow { background: url("/R-CAF/1250003/images/arrow-line.png") no-repeat center center; }
@@ -21,7 +21,7 @@ select::-ms-expand { display: none; }
 /* HOMEPAGE */
 #masthead .default-masthead { background-image: url("/R-CAF/1250003/images/hp_main_640x796.jpg"); }
 @media only screen and (min-width: 768px) {
-    #masthead .default-masthead { background-image: url("/R-CAF/1250003/images/hp_main_1280x308.jpg"); }
+    #masthead .default-masthead { background-image: url("http://4.bp.blogspot.com/-uUBl0yOXCnY/Tc2N-9AVZiI/AAAAAAAANtI/UIivuwDMqTY/s1600/Emmy_Rossum.jpg"); }
     #masthead .default-masthead.three-tile { background-image: url("/R-CAF/1250003/images/hp_main_1280x308_original.jpg"); }
 }
 
@@ -92,3 +92,4 @@ select::-ms-expand { display: none; }
 .article-tile .has-bkgd.medium-right { background-image:url(''); background-position: right; }
 .article-tile .has-bkgd.large-left { background-image:url(''); background-position: right; }
 .article-tile .has-bkgd.large-right { background-image:url(''); }
+
