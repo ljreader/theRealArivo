@@ -1,57 +1,57 @@
-/* https://cdn.f9client.com/api3/file/1250003/default/font-v3.css?__gda__=exp=1523412544~acl=/api3/file/1250003/default/font-v3.css*~hmac=4d7dc9b4b91d003c673edd893eb41bbe81bd82d1215af2666c3a7a3f1ca2636a */
+/* https://cdn.f9client.com/api3/file/1250003/default/font-v3.css?__gda__=exp=1523565842~acl=/api3/file/1250003/default/font-v3.css*~hmac=06cc2d3e216bb2291e3f9aa712e42dbaad6722205d902d4313236457bad426e5 */
 
 @font-face {
   font-family: 'Open Sans';
   font-style: normal;
   font-weight: 200;
-  src: url(../../../fonts/google-fonts/default/opensans-light-webfont.eot);
+  src: url("https://cdn.f9client.com/api3/fonts/google-fonts/default/opensans-light-webfont.eot");
   src: local('Open Sans Light'),
       local('OpenSans-Light'),
-      url(../../../fonts/google-fonts/default/opensans-light-webfont.eot?#iefix) format('embedded-opentype'),
-      url(../../../fonts/google-fonts/default/opensans-light-webfont.woff2) format('woff2'),
-      url(../../../fonts/google-fonts/default/opensans-light-webfont.woff) format('woff');
+      url(https://cdn.f9client.com/api3/fonts/google-fonts/default/opensans-light-webfont.eot?#iefix) format('embedded-opentype'),
+      url(https://cdn.f9client.com/api3/fonts/google-fonts/default/opensans-light-webfont.woff2) format('woff2'),
+      url(https://cdn.f9client.com/api3/fonts/google-fonts/default/opensans-light-webfont.woff) format('woff');
 }
 @font-face {
   font-family: 'Open Sans';
   font-style: normal;
   font-weight: 400;
-  src: url(../../../fonts/google-fonts/default/OpenSans.eot);
+  src: url(https://cdn.f9client.com/api3/fonts/google-fonts/default/OpenSans.eot);
   src: local('Open Sans'),
       local('OpenSans'),
-      url(../../../fonts/google-fonts/default/OpenSans.eot?#iefix) format('embedded-opentype'),
-      url(../../../fonts/google-fonts/default/OpenSans.woff2) format('woff2'),
-      url(../../../fonts/google-fonts/default/OpenSans.woff) format('woff');
+      url(https://cdn.f9client.com/api3/fonts/google-fonts/default/OpenSans.eot?#iefix) format('embedded-opentype'),
+      url(https://cdn.f9client.com/api3/fonts/google-fonts/default/OpenSans.woff2) format('woff2'),
+      url(https://cdn.f9client.com/api3/fonts/google-fonts/default/OpenSans.woff) format('woff');
 }
 @font-face {
   font-family: 'Open Sans';
   font-style: normal;
   font-weight: 600;
-  src: url(../../../fonts/google-fonts/default/OpenSans-Semibold.eot);
+  src: url(https://cdn.f9client.com/api3/fonts/google-fonts/default/OpenSans-Semibold.eot);
   src: local('Open Sans Semibold'),
       local('OpenSans-Semibold'),
-      url(../../../fonts/google-fonts/default/OpenSans-Semibold.eot?#iefix) format('embedded-opentype'),
-      url(../../../fonts/google-fonts/default/OpenSans-Semibold.woff2) format('woff2'),
-      url(../../../fonts/google-fonts/default/OpenSans-Semibold.woff) format('woff');
+      url(https://cdn.f9client.com/api3/fonts/google-fonts/default/OpenSans-Semibold.eot?#iefix) format('embedded-opentype'),
+      url(https://cdn.f9client.com/api3/fonts/google-fonts/default/OpenSans-Semibold.woff2) format('woff2'),
+      url(https://cdn.f9client.com/api3/fonts/google-fonts/default/OpenSans-Semibold.woff) format('woff');
 }
 @font-face {
   font-family: 'Open Sans';
   font-style: normal;
   font-weight: 700;
-  src: url(../../../fonts/google-fonts/default/OpenSans-Bold.eot);
+  src: url(https://cdn.f9client.com/api3/fonts/google-fonts/default/OpenSans-Bold.eot);
   src: local('OpenSans Bold'),
       local('OpenSans Bold'),
-      url(../../../fonts/google-fonts/default/OpenSans-Bold.eot?#iefix) format('embedded-opentype'),
-      url(../../../fonts/google-fonts/default/OpenSans-Bold.woff2) format('woff2'),
-      url(../../../fonts/google-fonts/default/OpenSans-Bold.woff) format('woff');
+      url(https://cdn.f9client.com/api3/fonts/google-fonts/default/OpenSans-Bold.eot?#iefix) format('embedded-opentype'),
+      url(https://cdn.f9client.com/api3/fonts/google-fonts/default/OpenSans-Bold.woff2) format('woff2'),
+      url(https://cdn.f9client.com/api3/fonts/google-fonts/default/OpenSans-Bold.woff) format('woff');
 }
 
 @font-face {
     font-family: 'CAF Icons';
     font-style: normal;
     font-weight: 400;
-    src: url(../../../fonts/1250003/default/caf-icons-v3.eot);
+    src: url(https://cdn.f9client.com/api3/fonts/1250003/default/caf-icons-v3.eot);
     src: local('CAF Icons'), 
          local('caf-icons'), 
-         url(../../../fonts/chase-fonts/default/caf-icons-v3.eot?#iefix) format('embedded-opentype'), 
-         url(../../../fonts/chase-fonts/default/caf-icons-v3.woff) format('woff');
+         url(https://cdn.f9client.com/api3/fonts/chase-fonts/default/caf-icons-v3.eot?#iefix) format('embedded-opentype'), 
+         url(https://cdn.f9client.com/api3/fonts/chase-fonts/default/caf-icons-v3.woff) format('woff');
 }
