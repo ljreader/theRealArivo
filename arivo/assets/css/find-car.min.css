@@ -27,14 +27,14 @@
 .find-car-container .find-car-submit-button {
 	width: 100%;
 	position: relative;
-	background-color: #0b6efd;
-	border-color: #0b6efd
+	background-color: #f79229;
+	border-color: #f79229
 }
 
 .find-car-container .find-car-submit-button:hover,
 .find-car-container .find-car-submit-button:active {
-	background-color: #0a4386;
-	border-color: #0a4386
+	background-color: #f79229;
+	border-color: #f79229
 }
 
 .find-car-container form:invalid .find-car-submit-button,

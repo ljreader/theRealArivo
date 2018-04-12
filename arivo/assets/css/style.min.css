@@ -398,7 +398,7 @@ a:focus .hiddenTextOnScreen {
 .has-caret::after {
 	border-style: solid;
 	border-width: .1em .1em 0 0;
-	border-color: #0a4386;
+	border-color: #f79229;
 	content: '';
 	display: inline-block;
 	height: .45em;
@@ -467,7 +467,7 @@ button.compare-btn,
 a.button.compare-btn {
 	background-color: #fff;
 	border: none;
-	color: #0b6efd
+	color: #f79229
 }
 
 button.compare-btn:hover,
@@ -475,12 +475,12 @@ a.button.compare-btn:hover,
 button.compare-btn:active,
 a.button.compare-btn:active {
 	background-color: #fff;
-	color: #0a4386
+	color: #f79229
 }
 
 button.compare-btn.active,
 a.button.compare-btn.active {
-	background-color: #0b6efd;
+	background-color: #f79229;
 	color: #fff
 }
 
@@ -489,7 +489,7 @@ a.button.compare-btn.active:hover,
 button.compare-btn.active:active,
 a.button.compare-btn.active:active {
 	background-color: #fff;
-	color: #0a4386
+	color: #f79229
 }
 
 button.compare-btn.disabled,
@@ -501,8 +501,8 @@ a.button.compare-btn.disabled {
 
 button.promo-btn,
 a.button.promo-btn {
-	background-color: #0b6efd;
-	border: solid 1px #0b6efd;
+	background-color: #f79229;
+	border: solid 1px #f79229;
 	color: #fff;
 	padding: 10px 20px
 }
@@ -511,8 +511,8 @@ button.promo-btn:hover,
 a.button.promo-btn:hover,
 button.promo-btn:active,
 a.button.promo-btn:active {
-	background-color: #0a4386;
-	border: solid 1px #0a4386;
+	background-color: #f79229;
+	border: solid 1px #f79229;
 	color: #fff
 }
 
@@ -526,8 +526,8 @@ a.button.promo-btn.disabled {
 button.promo-btn.secondary,
 a.button.promo-btn.secondary {
 	background-color: #fff;
-	border: solid 1px #0b6efd;
-	color: #0b6efd
+	border: solid 1px #f79229;
+	color: #f79229
 }
 
 button.promo-btn.secondary:hover,
@@ -535,8 +535,8 @@ a.button.promo-btn.secondary:hover,
 button.promo-btn.secondary:active,
 a.button.promo-btn.secondary:active {
 	background-color: #fff;
-	border: solid 2px #0a4386;
-	color: #0a4386
+	border: solid 2px #f79229;
+	color: #f79229
 }
 
 button.cta-btn,
@@ -588,8 +588,8 @@ a.button.cta-btn.icon-lock:before {
 button.cta-clear-btn,
 a.button.cta-clear-btn {
 	background-color: transparent;
-	border: solid 1px #126bc5;
-	color: #126bc5;
+	border: solid 1px #f79229;
+	color: #f79229;
 	min-width: 145px;
 	padding: 10px 20px
 }
@@ -598,14 +598,14 @@ button.cta-clear-btn:hover,
 a.button.cta-clear-btn:hover,
 button.cta-clear-btn:active,
 a.button.cta-clear-btn:active {
-	background-color: #0a4386;
-	border: solid 1px #0a4386;
+	background-color: #f79229;
+	border: solid 1px #f79229;
 	color: #fff
 }
 
 button.cta-clear-btn:active,
 a.button.cta-clear-btn:active {
-	background-color: #0a4386
+	background-color: #f79229
 }
 
 @media only screen and (max-width:679px) {
@@ -936,16 +936,16 @@ a.button.cancel-btn:active {
 
 a.button.proceed-btn {
 	font-size: 14px;
-	background-color: #0b6efd;
-	border: solid 1px #0b6efd;
+	background-color: #f79229;
+	border: solid 1px #f79229;
 	color: #fff;
 	min-width: 180px
 }
 
 a.button.proceed-btn:hover,
 a.button.proceed-btn:active {
-	background-color: #0a4386;
-	border-color: #0a4386;
+	background-color: #f79229;
+	border-color: #f79229;
 	color: #fff
 }
 
@@ -1547,7 +1547,7 @@ a.button.proceed-btn:active {
 
 .sub-nav ul li.sub-nav-item.active a:before,
 .sub-nav ul ul li.sub-nav-item.active a:before {
-	color: #126bc5
+	color: #f79229
 }
 
 .sub-nav ul li.sub-nav-item:hover a,
@@ -1557,7 +1557,7 @@ a.button.proceed-btn:active {
 
 .sub-nav ul li.sub-nav-item:hover a:before,
 .sub-nav ul ul li.sub-nav-item:hover a:before {
-	color: #126bc5
+	color: #f79229
 }
 
 .sub-nav ul li.sub-nav-item img {
@@ -1639,7 +1639,7 @@ a.button.proceed-btn:active {
 	padding-left: 15px;
 	position: relative;
 	top: 2px;
-	color: #126bc5;
+	color: #f79229;
 	font-size: 14px;
 	font-weight: 700
 }
@@ -1822,7 +1822,7 @@ a.button.proceed-btn:active {
 
 .category15 .sub-nav ul li.sub-nav-item.active:hover a:before,
 .category15 .sub-nav ul ul li.sub-nav-item.active:hover a:before {
-	color: #126bc5 !important
+	color: #f79229 !important
 }
 
 .category15 .sub-nav ul li.sub-nav-item.active a:before,
@@ -1857,7 +1857,7 @@ a.button.proceed-btn:active {
 	background: linear-gradient(to bottom, rgba(255, 255, 255, .9) 0%, rgba(204, 204, 204, .9) 100%);
 	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#e6ffffff', endColorstr='#cccccc', GradientType=0);
 	bottom: 0;
-	color: #0a4386;
+	color: #f79229;
 	font-size: 14px;
 	height: 70px;
 	padding: 30px 20px 10px 20px;
@@ -1966,7 +1966,7 @@ h1 {
 	left: 0;
 	width: 100%;
 	height: 6px;
-	background-color: #126bc5
+	background-color: #f79229
 }
 
 #footnotes {
@@ -1979,7 +1979,7 @@ h1 {
 }
 
 #footnotes a.return-links {
-	color: #126bc5;
+	color: #f79229;
 	text-decoration: none
 }
 
@@ -2013,7 +2013,7 @@ footer h2 {
 footer .top-section {
 	background: #ededed none repeat scroll 0 0;
 	border-bottom: 1px solid #ccc;
-	border-top: 5px solid #126bc5;
+	border-top: 5px solid #f79229;
 	min-height: 102px;
 	padding: 0 0 30px 0;
 	width: 100%
@@ -2522,7 +2522,7 @@ footer .bottom-section .copyright p {
 	margin-right: 30px;
 	font-weight: 600;
 	font-size: 16px;
-	color: #126bc5;
+	color: #f79229;
 	background-color: #fff;
 	border-color: #fff;
 	margin: auto auto !important;
