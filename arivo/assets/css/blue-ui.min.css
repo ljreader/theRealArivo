@@ -80,7 +80,7 @@ h1 {
 
 mark {
 	background: #ff0;
-	color: #000
+	color: #676767;
 }
 
 small {
@@ -3427,7 +3427,7 @@ label.validation-error {
 
 @media print {
 	* {
-		border-color: #000 !important
+		border-color: #676767; !important
 	}
 	.util.print-hide {
 		display: none !important
@@ -3445,7 +3445,7 @@ label.validation-error {
 		width: 100% !important
 	}
 	.util.print-color {
-		color: #000 !important
+		color: #676767; !important
 	}
 	.util.print-border-none {
 		border: 0 !important
@@ -3948,10 +3948,10 @@ a:focus.onDark:focus {
 }
 
 .jpui.badge.flat {
-	border-color: #000;
+	border-color: #676767;;
 	background-color: #fff;
 	box-shadow: none;
-	color: #000
+	color: #676767;
 }
 
 .jpui.button {
@@ -4930,7 +4930,7 @@ a:focus.onDark:focus {
 
 .jpui.documentviewer .document mark {
 	background: #ff0;
-	color: #000
+	color: #676767;
 }
 
 .jpui.documentviewer .document small {
@@ -5768,7 +5768,7 @@ a:focus.onDark:focus {
 .jpui.inlinemodalheader {
 	height: 3.25em;
 	position: relative;
-	background-color: #000;
+	background-color: #676767;;
 	-webkit-box-shadow: 0 4px 4px -4px rgba(0, 0, 0, .3);
 	-moz-box-shadow: 0 4px 4px -4px rgba(0, 0, 0, .3);
 	box-shadow: 0 4px 4px -4px rgba(0, 0, 0, .3)
@@ -5812,7 +5812,7 @@ a:focus.onDark:focus {
 
 @media print {
 	.jpui.inlinemodalheader .title {
-		color: #000 !important
+		color: #676767; !important
 	}
 }
 
@@ -5866,7 +5866,7 @@ a:focus.onDark:focus {
 
 @media print {
 	.jpui.inlinemodalheader.profile .title {
-		color: #000 !important
+		color: #676767; !important
 	}
 }
 
@@ -5886,7 +5886,7 @@ a:focus.onDark:focus {
 
 @media print {
 	.jpui.inlinemodalheader.payments .title {
-		color: #000 !important
+		color: #676767; !important
 	}
 }
 
@@ -5907,7 +5907,7 @@ a:focus.onDark:focus {
 
 @media print {
 	.jpui.inlinemodalheader.classic .title {
-		color: #000 !important
+		color: #676767; !important
 	}
 }
 
@@ -5935,7 +5935,7 @@ a:focus.onDark:focus {
 
 @media print {
 	.jpui.inlinemodalheader.classic.blue .title {
-		color: #000 !important
+		color: #676767; !important
 	}
 }
 
@@ -6924,7 +6924,7 @@ a:focus.onDark:focus {
 
 .jpui.navbar.vertical ul li {
 	background-color: #fff;
-	color: #000
+	color: #676767;
 }
 
 .jpui.navbar.vertical .clickable {
@@ -6936,7 +6936,7 @@ a:focus.onDark:focus {
 	overflow: hidden;
 	text-overflow: ellipsis;
 	background-color: #fff;
-	color: #000
+	color: #676767;
 }
 
 .jpui.navbar.vertical.topLevel {}

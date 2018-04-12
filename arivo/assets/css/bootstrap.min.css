@@ -79,7 +79,7 @@ h1 {
 }
 
 mark {
-	color: #000;
+	color: #676767;
 	background: #ff0
 }
 
@@ -236,7 +236,7 @@ th {
 	*,
 	:after,
 	:before {
-		color: #000 !important;
+		color: #676767 !important;
 		text-shadow: none !important;
 		background: 0 0 !important;
 		-webkit-box-shadow: none !important;
@@ -286,7 +286,7 @@ th {
 	}
 	.btn>.caret,
 	.dropup>.btn>.caret {
-		border-top-color: #000 !important
+		border-top-color: #676767 !important
 	}
 	.label {
 		border: 1px solid #000
@@ -1393,7 +1393,7 @@ body {
 	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 	font-size: 14px;
 	line-height: 1.42857143;
-	color: #333;
+	color: #676767;
 	background-color: #fff
 }
 
@@ -1936,7 +1936,7 @@ kbd {
 	padding: 2px 4px;
 	font-size: 90%;
 	color: #fff;
-	background-color: #333;
+	background-color: #676767;
 	border-radius: 3px;
 	-webkit-box-shadow: inset 0 -1px 0 rgba(0, 0, 0, .25);
 	box-shadow: inset 0 -1px 0 rgba(0, 0, 0, .25)
@@ -1956,7 +1956,7 @@ pre {
 	margin: 0 0 10px;
 	font-size: 13px;
 	line-height: 1.42857143;
-	color: #333;
+	color: #676767;
 	word-break: break-all;
 	word-wrap: break-word;
 	background-color: #f5f5f5;
@@ -3081,7 +3081,7 @@ legend {
 	margin-bottom: 20px;
 	font-size: 21px;
 	line-height: inherit;
-	color: #333;
+	color: #676767;
 	border: 0;
 	border-bottom: 1px solid #e5e5e5
 }
@@ -3692,7 +3692,7 @@ textarea.input-lg {
 .btn.focus,
 .btn:focus,
 .btn:hover {
-	color: #333;
+	color: #676767;
 	text-decoration: none
 }
 
@@ -3720,20 +3720,20 @@ fieldset[disabled] a.btn {
 }
 
 .btn-default {
-	color: #333;
+	color: #676767;
 	background-color: #fff;
 	border-color: #ccc
 }
 
 .btn-default.focus,
 .btn-default:focus {
-	color: #333;
+	color: #676767;
 	background-color: #e6e6e6;
 	border-color: #8c8c8c
 }
 
 .btn-default:hover {
-	color: #333;
+	color: #676767;
 	background-color: #e6e6e6;
 	border-color: #adadad
 }
@@ -3741,7 +3741,7 @@ fieldset[disabled] a.btn {
 .btn-default.active,
 .btn-default:active,
 .open>.dropdown-toggle.btn-default {
-	color: #333;
+	color: #676767;
 	background-color: #e6e6e6;
 	border-color: #adadad
 }
@@ -3755,7 +3755,7 @@ fieldset[disabled] a.btn {
 .open>.dropdown-toggle.btn-default.focus,
 .open>.dropdown-toggle.btn-default:focus,
 .open>.dropdown-toggle.btn-default:hover {
-	color: #333;
+	color: #676767;
 	background-color: #d4d4d4;
 	border-color: #8c8c8c
 }
@@ -3781,7 +3781,7 @@ fieldset[disabled] .btn-default:hover {
 
 .btn-default .badge {
 	color: #fff;
-	background-color: #333
+	background-color: #676767
 }
 
 .btn-primary {
@@ -4151,7 +4151,7 @@ fieldset[disabled] .btn-link:hover {
 .btn-lg {
 	padding: 10px 16px;
 	font-size: 18px;
-	line-height: 1.3333333;
+	line-height: 1.33333333;
 	border-radius: 6px
 }
 
@@ -4290,7 +4290,7 @@ tbody.collapse.in {
 	clear: both;
 	font-weight: 400;
 	line-height: 1.42857143;
-	color: #333;
+	color: #676767;
 	white-space: nowrap
 }
 
@@ -5412,7 +5412,7 @@ textarea.input-group-sm>.input-group-btn>.btn {
 
 .navbar-default .navbar-nav>li>a:focus,
 .navbar-default .navbar-nav>li>a:hover {
-	color: #333;
+	color: #676767;
 	background-color: transparent
 }
 
@@ -5461,7 +5461,7 @@ textarea.input-group-sm>.input-group-btn>.btn {
 	}
 	.navbar-default .navbar-nav .open .dropdown-menu>li>a:focus,
 	.navbar-default .navbar-nav .open .dropdown-menu>li>a:hover {
-		color: #333;
+		color: #676767;
 		background-color: transparent
 	}
 	.navbar-default .navbar-nav .open .dropdown-menu>.active>a,
@@ -5483,7 +5483,7 @@ textarea.input-group-sm>.input-group-btn>.btn {
 }
 
 .navbar-default .navbar-link:hover {
-	color: #333
+	color: #676767
 }
 
 .navbar-default .btn-link {
@@ -5492,7 +5492,7 @@ textarea.input-group-sm>.input-group-btn>.btn {
 
 .navbar-default .btn-link:focus,
 .navbar-default .btn-link:hover {
-	color: #333
+	color: #676767
 }
 
 .navbar-default .btn-link[disabled]:focus,
@@ -5503,8 +5503,8 @@ fieldset[disabled] .navbar-default .btn-link:hover {
 }
 
 .navbar-inverse {
-	background-color: #222;
-	border-color: #080808
+	background-color: #676767;
+	border-color: #f79229
 }
 
 .navbar-inverse .navbar-brand {
@@ -5535,7 +5535,7 @@ fieldset[disabled] .navbar-default .btn-link:hover {
 .navbar-inverse .navbar-nav>.active>a:focus,
 .navbar-inverse .navbar-nav>.active>a:hover {
 	color: #fff;
-	background-color: #080808
+	background-color: #676767
 }
 
 .navbar-inverse .navbar-nav>.disabled>a,
@@ -5546,12 +5546,12 @@ fieldset[disabled] .navbar-default .btn-link:hover {
 }
 
 .navbar-inverse .navbar-toggle {
-	border-color: #333
+	border-color: #f79229
 }
 
 .navbar-inverse .navbar-toggle:focus,
 .navbar-inverse .navbar-toggle:hover {
-	background-color: #333
+	background-color: #676767
 }
 
 .navbar-inverse .navbar-toggle .icon-bar {
@@ -5560,22 +5560,22 @@ fieldset[disabled] .navbar-default .btn-link:hover {
 
 .navbar-inverse .navbar-collapse,
 .navbar-inverse .navbar-form {
-	border-color: #101010
+	border-color: #f79229
 }
 
 .navbar-inverse .navbar-nav>.open>a,
 .navbar-inverse .navbar-nav>.open>a:focus,
 .navbar-inverse .navbar-nav>.open>a:hover {
 	color: #fff;
-	background-color: #080808
+	background-color: #676767
 }
 
 @media (max-width:767px) {
 	.navbar-inverse .navbar-nav .open .dropdown-menu>.dropdown-header {
-		border-color: #080808
+		border-color: #676767
 	}
 	.navbar-inverse .navbar-nav .open .dropdown-menu .divider {
-		background-color: #080808
+		background-color: #676767
 	}
 	.navbar-inverse .navbar-nav .open .dropdown-menu>li>a {
 		color: #9d9d9d
@@ -5589,7 +5589,7 @@ fieldset[disabled] .navbar-default .btn-link:hover {
 	.navbar-inverse .navbar-nav .open .dropdown-menu>.active>a:focus,
 	.navbar-inverse .navbar-nav .open .dropdown-menu>.active>a:hover {
 		color: #fff;
-		background-color: #080808
+		background-color: #676767
 	}
 	.navbar-inverse .navbar-nav .open .dropdown-menu>.disabled>a,
 	.navbar-inverse .navbar-nav .open .dropdown-menu>.disabled>a:focus,
@@ -6015,7 +6015,7 @@ a.thumbnail:hover {
 
 .thumbnail .caption {
 	padding: 9px;
-	color: #333
+	color: #676767
 }
 
 .alert {
@@ -6314,7 +6314,7 @@ button.list-group-item {
 
 a.list-group-item .list-group-item-heading,
 button.list-group-item .list-group-item-heading {
-	color: #333
+	color: #676767
 }
 
 a.list-group-item:focus,
@@ -6803,7 +6803,7 @@ button.list-group-item-danger.active:hover {
 }
 
 .panel-default>.panel-heading {
-	color: #333;
+	color: #676767;
 	background-color: #f5f5f5;
 	border-color: #ddd
 }
@@ -6814,7 +6814,7 @@ button.list-group-item-danger.active:hover {
 
 .panel-default>.panel-heading .badge {
 	color: #f5f5f5;
-	background-color: #333
+	background-color: #676767
 }
 
 .panel-default>.panel-footer+.panel-collapse>.panel-body {
@@ -6997,7 +6997,7 @@ button.list-group-item-danger.active:hover {
 	font-size: 21px;
 	font-weight: 700;
 	line-height: 1;
-	color: #000;
+	color: #676767;
 	text-shadow: 0 1px 0 #fff;
 	filter: alpha(opacity=20);
 	opacity: .2
@@ -7005,7 +7005,7 @@ button.list-group-item-danger.active:hover {
 
 .close:focus,
 .close:hover {
-	color: #000;
+	color: #676767;
 	text-decoration: none;
 	cursor: pointer;
 	filter: alpha(opacity=50);
@@ -7085,7 +7085,7 @@ button.close {
 	bottom: 0;
 	left: 0;
 	z-index: 1040;
-	background-color: #000
+	background-color: #676767
 }
 
 .modal-backdrop.fade {
@@ -7218,7 +7218,7 @@ button.close {
 	padding: 3px 8px;
 	color: #fff;
 	text-align: center;
-	background-color: #000;
+	background-color: #676767;
 	border-radius: 4px
 }
 
@@ -7235,7 +7235,7 @@ button.close {
 	left: 50%;
 	margin-left: -5px;
 	border-width: 5px 5px 0;
-	border-top-color: #000
+	border-top-color: #676767
 }
 
 .tooltip.top-left .tooltip-arrow {
@@ -7243,7 +7243,7 @@ button.close {
 	bottom: 0;
 	margin-bottom: -5px;
 	border-width: 5px 5px 0;
-	border-top-color: #000
+	border-top-color: #676767
 }
 
 .tooltip.top-right .tooltip-arrow {
@@ -7251,7 +7251,7 @@ button.close {
 	left: 5px;
 	margin-bottom: -5px;
 	border-width: 5px 5px 0;
-	border-top-color: #000
+	border-top-color: #676767
 }
 
 .tooltip.right .tooltip-arrow {
@@ -7259,7 +7259,7 @@ button.close {
 	left: 0;
 	margin-top: -5px;
 	border-width: 5px 5px 5px 0;
-	border-right-color: #000
+	border-right-color: #676767
 }
 
 .tooltip.left .tooltip-arrow {
@@ -7267,7 +7267,7 @@ button.close {
 	right: 0;
 	margin-top: -5px;
 	border-width: 5px 0 5px 5px;
-	border-left-color: #000
+	border-left-color: #676767
 }
 
 .tooltip.bottom .tooltip-arrow {
@@ -7275,7 +7275,7 @@ button.close {
 	left: 50%;
 	margin-left: -5px;
 	border-width: 0 5px 5px;
-	border-bottom-color: #000
+	border-bottom-color: #676767
 }
 
 .tooltip.bottom-left .tooltip-arrow {
@@ -7283,7 +7283,7 @@ button.close {
 	right: 5px;
 	margin-top: -5px;
 	border-width: 0 5px 5px;
-	border-bottom-color: #000
+	border-bottom-color: #676767
 }
 
 .tooltip.bottom-right .tooltip-arrow {
@@ -7291,7 +7291,7 @@ button.close {
 	left: 5px;
 	margin-top: -5px;
 	border-width: 0 5px 5px;
-	border-bottom-color: #000
+	border-bottom-color: #676767
 }
 
 .popover {
@@ -7639,7 +7639,7 @@ button.close {
 	margin: 1px;
 	text-indent: -999px;
 	cursor: pointer;
-	background-color: #000\9;
+	background-color: #676767;
 	background-color: rgba(0, 0, 0, 0);
 	border: 1px solid #fff;
 	border-radius: 10px

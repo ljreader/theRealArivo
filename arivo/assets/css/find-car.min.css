@@ -39,8 +39,8 @@
 
 .find-car-container form:invalid .find-car-submit-button,
 .find-car-container .find-car-submit-button.disabled {
-	border: 1px solid #c7c7c7;
-	color: #ccc;
+	border: 1px solid #f79229;
+	color: #fff;
 	background-color: #777;
 	cursor: default
 }
