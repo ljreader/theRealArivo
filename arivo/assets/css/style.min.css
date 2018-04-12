@@ -657,8 +657,8 @@ a.button.learn-more-btn:active {
 button.clear-btn,
 a.button.clear-btn {
 	background-color: transparent;
-	border: 1px solid #0b6efd;
-	color: #0b6efd;
+	border: 1px solid #f79229;
+	color: #f79229;
 	padding: 10px 20px
 }
 
@@ -673,8 +673,8 @@ a.button.clear-btn:active {
 
 button.sign-in,
 a.button.sign-in {
-	background-color: #0b6efd;
-	border: 1px solid #fff;
+	background-color: #b3b3b3;
+	border: 1px solid #f79229;
 	color: #fff;
 	margin-top: 13px;
 	padding: 10px 5px;
