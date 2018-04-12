@@ -1,5 +1,3 @@
-/* https://autofinance.chase.com/R-CAF/css/style.min.css */
-
 body {
 	font-family: 'Open Sans', sans-serif;
 	color: #414042
@@ -666,14 +664,14 @@ button.clear-btn:hover,
 a.button.clear-btn:hover,
 button.clear-btn:active,
 a.button.clear-btn:active {
-	background-color: #0b6efd;
-	border: 1px solid #0b6efd;
+	background-color: #f79229;
+	border: 1px solid #f79229;
 	color: #fff
 }
 
 button.sign-in,
 a.button.sign-in {
-	background-color: #b3b3b3;
+	background-color: #676767;
 	border: 1px solid #f79229;
 	color: #fff;
 	margin-top: 13px;
@@ -694,7 +692,7 @@ button .sign-in:hover,
 a.button .sign-in:hover,
 button.sign-in:active,
 a.button.sign-in:active {
-	background-color: #0a4386
+	background-color: #f79229
 }
 
 .checklist-item {
@@ -769,121 +767,121 @@ a.button.sign-in:active {
 }
 
 .glyph-app-status:before {
-	content: "ï„€"
+	content: ""
 }
 
 .glyph-loan-service:before {
-	content: "ï„"
+	content: ""
 }
 
 .glyph-loans:before {
-	content: "ï„‚"
+	content: ""
 }
 
 .glyph-checklist:before {
-	content: "ï„ƒ"
+	content: ""
 }
 
 .glyph-buying-service:before {
-	content: "ï„„"
+	content: ""
 }
 
 .glyph-cbs-competitive:before {
-	content: "ï„…"
+	content: ""
 }
 
 .glyph-redeem:before {
-	content: "ï„†"
+	content: ""
 }
 
 .glyph-see-others-paid:before {
-	content: "ï„‡"
+	content: ""
 }
 
 .glyph-caf-icon:before {
-	content: "ï„ˆ"
+	content: ""
 }
 
 .glyph-weblink:before {
-	content: "ï„‰"
+	content: ""
 }
 
 .glyph-down-arrow:before {
-	content: "ï„Š"
+	content: ""
 }
 
 .glyph-faq:before {
-	content: "ï„‹"
+	content: ""
 }
 
 .glyph-learning-hub:before {
-	content: "ï„Œ"
+	content: ""
 }
 
 .glyph-overview:before {
-	content: "ï„"
+	content: ""
 }
 
 .glyph-truecar:before {
-	content: "ï„Ž"
+	content: ""
 }
 
 .glyph-finance:before {
-	content: "ï„"
+	content: ""
 }
 
 .glyph-search-dealer:before {
-	content: "ï„"
+	content: ""
 }
 
 .glyph-interest-rate:before {
-	content: "ï„‘"
+	content: ""
 }
 
 .glyph-car-payments:before {
-	content: "ï„’"
+	content: ""
 }
 
 .glyph-rate-discounts:before {
-	content: "ï„“"
+	content: ""
 }
 
 .glyph-share:before {
-	content: "ï„”";
+	content: "";
 	position: relative;
 	top: 2px
 }
 
 .glyph-facebook:before {
-	content: "ï„•";
+	content: "";
 	position: relative;
 	top: 2px
 }
 
 .glyph-twitter:before {
-	content: "ï„–"
+	content: ""
 }
 
 .glyph-linkedin:before {
-	content: "ï„—"
+	content: ""
 }
 
 .glyph-pinterest:before {
-	content: "ï„˜";
+	content: "";
 	position: relative;
 	top: 1px
 }
 
 .glyph-email:before {
-	content: "ï„™"
+	content: ""
 }
 
 .glyph-close:before {
-	content: "ï„š"
+	content: ""
 }
 
 .glyph-close2:before {
-	content: "ï„›"
+	content: ""
 }
 
 button,
