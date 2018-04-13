@@ -8,9 +8,9 @@ select::-ms-expand { display: none; }
     select { background-position: right 0.5em; }
 }
 
-#default-page .offer-image { background-image: url("http://ak6.picdn.net/shutterstock/videos/11829686/thumb/1.jpg"); }
+#default-page .offer-image { background-image: url("../images/diversity640.jpg"); }
 @media only screen and (min-width: 768px) {
-    #default-page .offer-image { background-image: url("http://ak6.picdn.net/shutterstock/videos/11829686/thumb/1.jpg"); }
+    #default-page .offer-image { background-image: url("../images/diversity1280x230.jpg"); }
 }
 
 /* TrueCar */
@@ -20,11 +20,11 @@ select::-ms-expand { display: none; }
 
 /* HOMEPAGE */
 #masthead .default-masthead {
-	background-image: url("../images/roadToTheHorizon-2560x616.jpg");
+	background-image: url("../images/roadToTheHorizon-640x796.jpg");
 }
 @media only screen and (min-width: 768px) {
     #masthead .default-masthead { background-image: url("../images/roadToTheHorizon-2560x616.jpg"); }
-    #masthead .default-masthead.three-tile { background-image: url("../images/roadToTheHorizon-2560x616.jpg"); }
+    #masthead .default-masthead.three-tile { background-image: url("../images/roadToTheHorizon-640x796.jpg"); }
 }
 
 /* CBS */

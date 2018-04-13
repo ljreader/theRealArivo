@@ -1047,7 +1047,7 @@ a.button.proceed-btn:active {
 	right: 0;
 	left: 0;
 	z-index: 888;
-	min-height: 60px;
+	min-height: 70px;
 	width: 100%;
 	transition: all .3s ease
 }
@@ -1775,7 +1775,7 @@ a.button.proceed-btn:active {
 @media only screen and (max-width:767px) {
 	.sub-nav.sticky,
 	.nav-bar-container.sticky {
-		top: 60px
+		top: 70px
 	}
 	.sub-nav ul li.sub-nav-item span:not(.sr-only) {
 		font-size: 14px
