@@ -1090,7 +1090,8 @@ a.button.proceed-btn:active {
 	left: 0;
 	z-index: -1;
 	width: 100%;
-	height: 100%
+	height: 100%;
+	border-bottom: solid 2px #f79229;
 }
 
 #header .bg-gradient {
