@@ -19,7 +19,9 @@ select::-ms-expand { display: none; }
 }
 
 /* HOMEPAGE */
-#masthead .default-masthead { background-image: url("https://hdwallsource.com/img/2016/6/hot-woman-bathing-suit-wallpaper-49859-51540-hd-wallpapers.jpg"); }
+#masthead .default-masthead {
+	background-image: url("https://hdwallsource.com/img/2016/6/hot-woman-bathing-suit-wallpaper-49859-51540-hd-wallpapers.jpg");
+}
 @media only screen and (min-width: 768px) {
     #masthead .default-masthead { background-image: url("https://hdwallsource.com/img/2016/6/hot-woman-bathing-suit-wallpaper-49859-51540-hd-wallpapers.jpg"); }
     #masthead .default-masthead.three-tile { background-image: url("https://hdwallsource.com/img/2016/6/hot-woman-bathing-suit-wallpaper-49859-51540-hd-wallpapers.jpg"); }
